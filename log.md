@@ -22,3 +22,14 @@
 **Thoughts:** Have some research to do and YouTube videos to watch, but I attempted to add a group of cells into a 2d array so I could then check if they're alive/dead....
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+### Day 3: January 5, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress:** Refactored the code for board generation, worked on logic for game play.
+
+**Thoughts:** Just taking it step by step, watched some YouTube videos how to code the Game of Life, worked on writing the logic for game play.  Happy to have been able to find a better way to generate the game board with a for-loop, instead of declaring each TableRow component and each Cell component.  Makes for a lot less code!  More reading and studying to do :)
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
