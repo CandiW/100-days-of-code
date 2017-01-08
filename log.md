@@ -33,3 +33,27 @@
 **Thoughts:** Just taking it step by step, watched some YouTube videos how to code the Game of Life, worked on writing the logic for game play.  Happy to have been able to find a better way to generate the game board with a for-loop, instead of declaring each TableRow component and each Cell component.  Makes for a lot less code!  More reading and studying to do :)
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+### Day 4: January 6, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress:** More work on logic for game play.
+
+**Thoughts:** More studying and trying a few things out.....just working on it :)
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+### Day 5: January 7, 2017
+
+**Project:** Repose Ranch web-site
+
+**Today's Progress:** Just a few minor updates to my family's farm website
+
+**Thoughts:** Made a few changes on [reposeranch.us](http://www.reposeranch.us), fix margins, better mobile-friendliness, etc.....
+
+**Link to work:** [Repose Ranch](http://www.reposeranch.us)
+
+
