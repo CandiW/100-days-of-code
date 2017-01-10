@@ -63,6 +63,6 @@
 
 **Today's Progress:** Laid out if/else statements to check the status of the neighbors of a cell, if cell is alive or dead, minor refactoring, setInterval/clearInterval functions built inside React.js component.
 
-**Thoughts:** Feel pretty good about what I got done today....definately a work in progress :) Hoping to get it up and working really soon!
+**Thoughts:** Feel pretty good about what I got done today....definately a work in progress :) Certainly not perfect or working fully yet...but hoping to get it up and working really soon!
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
