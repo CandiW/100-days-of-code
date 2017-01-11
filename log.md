@@ -66,3 +66,15 @@
 **Thoughts:** Feel pretty good about what I got done today....definately a work in progress :) Certainly not perfect or working fully yet...but hoping to get it up and working really soon!
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+### Day 7, Day 8: January 10 and January 11, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress:** Debugging....and more work on game logic.
+
+**Thoughts:** Found some things that didn't work correctly, so I am reworking some of the code :)
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
