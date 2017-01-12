@@ -78,3 +78,16 @@
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
 
+
+### Day 9: January 12, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress:** Getting the coordinates for each cell; reworked table, td and tr 
+
+**Thoughts:** Discovered I wasn't getting the coordinates for each cell properly, but hopefully I have that fixed today :)  Also, worked on checking if the neighbors were alive or dead, pushing coordinates for the neighbors into the neighbors array, and reworked how I was rendering the table, tr, and td so I could get the coordinates for each cell easier.
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+
