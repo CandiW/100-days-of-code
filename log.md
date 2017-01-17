@@ -100,3 +100,13 @@
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
 
+
+### Day 14: January 17, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress and Thoughts: ** Finally getting proper indexes from current cell, created an object that holds the options for each cell, finished refactoring checkNeighbors function, checked that setInterval and clearInterval functions
+run properly.....now on to the start, pause, reset, clear, and automated play functions! Very accomplished day :)
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
