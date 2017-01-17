@@ -90,4 +90,13 @@
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
 
 
+### Day 10, 11, 12, & 13: January 13-16, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress:** More work on cells and rows, getting the index of each cell, refactoring checkNeighbors function...lots of refining and refactoring where I had some messy code :)
+
+**Thoughts:** Since I have 58 rows, and 58 cells in each row to start with, I've got to find a way to get the current cell.  So far, I'm getting close :)  Still learning....as it seems I'm trying to get the index of the cell maybe out of scope?  A work in progress.
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
 
