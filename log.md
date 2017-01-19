@@ -105,7 +105,7 @@
 
 **Project:** Free Code Camp Project - The Game of Life in React.js and SASS
 
-**Today's Progress and Thoughts: ** Finally getting proper indexes from current cell, created an object that holds the options for each cell, finished refactoring checkNeighbors function, checked that setInterval and clearInterval functions
+**Today's Progress and Thoughts:** Finally getting proper indexes from current cell, created an object that holds the options for each cell, finished refactoring checkNeighbors function, checked that setInterval and clearInterval functions
 run properly.....now on to the start, pause, reset, clear, and automated play functions! Very accomplished day :)
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
@@ -113,8 +113,8 @@ run properly.....now on to the start, pause, reset, clear, and automated play fu
 
 ### Day 15: January 18, 2017
 
-** Project: ** Free Code Camp Project - The Game of Life in React.js and SASS
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
 
-** Today's Progress: ** Looping through and randomly set cells to alive/dead, start/pause/reset/clear functions working, three different board sizes, three different speeds for iteration, generations working....
+**Today's Progress:** Looping through and randomly set cells to alive/dead, start/pause/reset/clear functions working, three different board sizes, three different speeds for iteration, generations working....
 
-** Thoughts: ** Another very productive day! Very happy with my progress. Only issue is after is randomly sets the first cells, it loops one time and then turns all the cells state to live!  Don't know why, but maybe I've got to get more specific on my checkNeighbors function or something..... some minor quirk I suppose :) 
+**Thoughts:** Another very productive day! Very happy with my progress. Only issue is after is randomly sets the first cells, it loops one time and then turns all the cells state to live!  Don't know why, but maybe I've got to get more specific on my checkNeighbors function or something..... some minor quirk I suppose :) 
