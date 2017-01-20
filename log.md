@@ -120,3 +120,12 @@ run properly.....now on to the start, pause, reset, clear, and automated play fu
 **Thoughts:** Another very productive day! Very happy with my progress. Only issue is after is randomly sets the first cells, it loops one time and then turns all the cells state to live!  Don't know why, but maybe I've got to get more specific on my checkNeighbors function or something..... some minor quirk I suppose :)  Also, I dove into a little Flux/Reflux today and tried a bit of it out in this project.  I wasn't sure if it was helping me or not and I needed to test some other pieces of the code, so I commented it out for a moment :)
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+### Day 16: January 19, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress & Thoughts:** Not much in the way of progress today.... just trying to figure out why, after one loop (one generation) of the game, all the cells states are alive??? I've been playing with checking the current cell, checking the neighbors, and haven't narrowed it down yet....will have to research more tomorrow and look at it with fresh eyes.
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
