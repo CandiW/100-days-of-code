@@ -138,3 +138,15 @@ run properly.....now on to the start, pause, reset, clear, and automated play fu
 **Today's Progress & Thoughts:** I determined that my initial state of the cells was getting converted to true instead of false, therefore they were on when they weren't supposed to be....also, my 'if' statements were conflicting and causing some trouble with the running of the game.  I'm sooooo close!!!  My only issue now is that if a cells neighbors are less than 2, it turns all the cells off...making the whole board black :(  Yet, if I change it to cell.neighbors === 2, then the game runs except I get these single living cells hanging around.  More to work on tomorrow....
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/pen/MbaGZz)
+
+
+### Day 22: January 26, 2017
+
+**Project:** Free Code Camp Project - The Game of Life in React.js and SASS
+
+**Today's Progress:** It's finally finished!
+
+**Thoughts:** So happy I finally finished the Game of Life!  It was a simple mistake of an order of function calls that was causing issues for me in the last week.  Now on to the next project!
+
+**Link to work:** [The Game of Life](http://codepen.io/CandiW/full/MbaGZz/)
+
