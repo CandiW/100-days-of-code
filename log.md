@@ -150,3 +150,15 @@ run properly.....now on to the start, pause, reset, clear, and automated play fu
 
 **Link to work:** [The Game of Life](http://codepen.io/CandiW/full/MbaGZz/)
 
+
+### Day 23: January 31, 2017
+
+**Project:** Learning D3.js
+
+**Today's Progress:** Just started watching some tutorial videos on YouTube....and following along with the code in CodePen.
+
+**Thoughts:** So far, it seems just as simple as I thought it would be! I watched a couple videos and it was really helpful for me who's just getting started :)  Links to the videos are below:
+
+**YouTube video links:** [D3.js Intro](https://youtu.be/n5NcCoa9dDU) & [Select & Append in D3.js](https://youtu.be/qIIKw2RFNlU)
+
+**Link to work:** [D3.js tutorial example 1](http://codepen.io/CandiW/pen/xgYWrd)
