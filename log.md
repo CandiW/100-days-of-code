@@ -159,6 +159,6 @@ run properly.....now on to the start, pause, reset, clear, and automated play fu
 
 **Thoughts:** So far, it seems just as simple as I thought it would be! I watched a couple videos and it was really helpful for me who's just getting started :)  Links to the videos are below:
 
-**YouTube video links:** [D3.js Intro](https://youtu.be/n5NcCoa9dDU) & [Select & Append in D3.js](https://youtu.be/qIIKw2RFNlU)
+**YouTube video links:** [D3.js Intro](https://youtu.be/n5NcCoa9dDU), [Select & Append in D3.js](https://youtu.be/qIIKw2RFNlU), [Basic SVG shapes with D3.js](https://youtu.be/TR39nfAW1dw)
 
-**Link to work:** [D3.js tutorial example 1](http://codepen.io/CandiW/pen/xgYWrd)
+**Link to work:** [D3.js tutorial example 1](http://codepen.io/CandiW/pen/xgYWrd), [D3.js tutorial example 2](http://codepen.io/CandiW/pen/dNdgGP)
