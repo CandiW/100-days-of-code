@@ -162,3 +162,17 @@ run properly.....now on to the start, pause, reset, clear, and automated play fu
 **YouTube video links:** [D3.js Intro](https://youtu.be/n5NcCoa9dDU), [Select & Append in D3.js](https://youtu.be/qIIKw2RFNlU), [Basic SVG shapes with D3.js](https://youtu.be/TR39nfAW1dw)
 
 **Link to work:** [D3.js tutorial example 1](http://codepen.io/CandiW/pen/xgYWrd), [D3.js tutorial example 2](http://codepen.io/CandiW/pen/dNdgGP)
+
+
+
+### Day 24: February 1, 2017
+
+**Project:** Learning D3.js
+
+**Today's Progress:** Watched a couple more videos on YouTube, implemented the code in Codepen, and fixed an error :)
+
+**Thoughts:** D3 is really fun!  I'm really enjoying it.  Only issue today was I was getting an error of 'Cannot read property linear of undefined', due to this line of code 'd3.scale.linear()'.  I searched for it and came up with that in v.4 of D3.js, it's been changed to 'd3.scaleLinear'....so that is reflected in my code example.
+
+**YouTube video links:** [Visualizing Data in D3.js](https://www.youtube.com/watch?v=4haBbPEClP4) & [Scaling in D3.js](https://www.youtube.com/watch?v=iMYkVLWc3y0)
+
+**Link to work:** [D3.js tutorial example 3](http://codepen.io/CandiW/pen/YNeJJZ) & [D3.js tutorial example 4](http://codepen.io/CandiW/pen/MJVEMx)
